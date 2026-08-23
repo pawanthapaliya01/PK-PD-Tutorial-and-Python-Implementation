@@ -7,7 +7,7 @@ To understand the concept of Pk/PD modeling.
 In addition to this, I have also followed the textbook Applied Biopharmaceutics and PHARMACOKINETICS by LEON SHRGEL, ANDREW B.C. YU of MC GRAW Hil EDUCATION
 
 
-# Population-pkpd-modeling Project
+
 # Population PK/PD Modeling and Exposure–Response Simulation
 
 ## Overview
