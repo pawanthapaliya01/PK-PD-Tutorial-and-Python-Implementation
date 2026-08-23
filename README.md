@@ -9,6 +9,7 @@ In addition to this, I have also followed the textbook Applied Biopharmaceutics 
 
 
 # Population PK/PD Modeling and Exposure–Response Simulation
+https://github.com/pawanthapaliya01/PK-PD-Tutorial-and-Python-Implementation/blob/main/population-pkpd-modeling.ipynb
 
 ## Overview
 
